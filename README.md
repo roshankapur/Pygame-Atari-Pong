@@ -5,3 +5,5 @@
 ## I wished to save the file as memory as well as a history of how early on I began my coding journey.
 
 ## The idea to recreate the old school pong game by Atari is my own *but is based on a course I paid for during the summer break.*
+
+Controls: P1- W/S, P2- Up/Down Arrow Keys
