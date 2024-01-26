@@ -4,4 +4,4 @@
 
 ## I wished to save the file as memory as well as a history of how early on I began my coding journey.
 
-## The idea to recreate the old school pong game by Atari is my own *but is based on a course i paid for during the summer break.*
+## The idea to recreate the old school pong game by Atari is my own *but is based on a course I paid for during the summer break.*
