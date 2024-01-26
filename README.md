@@ -1,6 +1,6 @@
 # Pygame-Atari-Pong
 
-## I found the code file in an old pendrive for a project I made during summer break in 10th Grade for the "Intro to Python" topic for the Computer Science Subject I took as a High School Sophomore.
+## I found the code file in an old pendrive for a project I made during summer break in 10th Grade for the "Intro to Python" topic for the Computer Science Subject I took as a High School Sophomore in Springdales.
 
 ## I wished to save the file as memory as well as a history of how early on I began my coding journey.
 
